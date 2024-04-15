@@ -1,7 +1,5 @@
 ### Hi, i'm Vitor Ribeiro 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-r-b79741239/)
-
 ![VitorRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-VitorRibeiro&show_icons=true&theme=cobalt)
 
 ### Technologies I use in my daily life
