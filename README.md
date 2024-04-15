@@ -12,4 +12,4 @@
 </div><br/>
 
 
-Computer Science, technology and innovation student
+Computer Science student, enthusiast in electronics and internet of things projects, reader and musician in his spare time.
