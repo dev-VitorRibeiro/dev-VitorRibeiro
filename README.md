@@ -1,6 +1,5 @@
 ### Hi, i'm Vitor Ribeiro 👋
-
-![VitorRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-VitorRibeiro&show_icons=true&theme=cobalt)
+<!--[VitorRibeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-VitorRibeiro&show_icons=true&theme=cobalt)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-VitorRibeiro&layout=compact)
 
 ### Technologies I use in my daily life
